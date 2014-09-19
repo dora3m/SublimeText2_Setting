@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+/**
+ * ${1:説明}
+ * @param integer \$hoge 説明
+ * @return Array \$result 説明
+ * */
+]]>
+</content>
+<tabTrigger>docs</tabTrigger>
+<scope>source.php,source.js</scope>
+<description>DOCS</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@author miyaguchi
+]]></content>
+    <tabTrigger>author</tabTrigger>
+    <scope>source.php,source.js</scope>
+    <description>@author</description>
+</snippet>

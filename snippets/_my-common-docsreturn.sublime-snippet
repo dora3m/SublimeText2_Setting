@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@return $1型 $2変数名 $3説明
+]]></content>
+    <tabTrigger>return</tabTrigger>
+    <scope>source.php,source.js</scope>
+    <description>@return</description>
+</snippet>

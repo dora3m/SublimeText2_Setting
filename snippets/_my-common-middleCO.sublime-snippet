@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+//-----------------------------------
+// ${1:説明}
+//-----------------------------------
+]]></content>
+<tabTrigger>middle</tabTrigger>
+<scope>source.php,source.js</scope>
+<description>middleCO</description>
+</snippet>
