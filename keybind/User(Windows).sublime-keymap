@@ -1,0 +1,30 @@
+[
+    // サイドバーを表示
+    { "keys": ["ctrl+alt+k"], "command": "toggle_side_bar" },
+    // フォルダを追加
+    { "keys": ["shift+ctrl+n"], "command": "prompt_add_folder"},
+
+    // 次のブックマークへ
+    {"keys": ["ctrl+b"], "command": "next_bookmark"},
+
+    // 前のブックマークへ
+    {"keys": ["shift+f2"], "command": "prev_bookmark"},
+
+    // ブックマークのオンオフ
+    {"keys": ["f2"], "command": "toggle_bookmark"},
+
+    // すべてのブックマークを削除
+    {"keys": ["ctrl+shift+f2"], "command": "clear_bookmarks"},
+
+    // すべてのブックマークを選択
+    {"keys": ["alt+f2"], "command": "select_all_bookmarks"},
+
+    // ファイルをクローン
+    { "keys": ["alt+shift+c"], "command": "clone_file" },
+
+
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    { "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
+    { "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" }
+]
